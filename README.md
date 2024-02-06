@@ -1,8 +1,13 @@
-# React + Vite
+Overview
+Welcome to my programmer portfolio! This repository showcases my skills, projects, and experience as a software developer. Whether you're a potential employer, collaborator, or just curious about my work, you'll find a variety of projects and information that reflect my passion for coding and problem-solving.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+About Me
+I'm a software developer with experience in JavaScript and TypeScript, an expertise in frameworks like React and Node.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-freandly solutions that solve real-world problems. Let's work together to bring your ideas to life!
 
-Currently, two official plugins are available:
+Skills
+Programming Languages: JavaScript, TypeScript
+Web Development: React, Node.js
+Version Control: Git
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Portfolio Website: https://portfolio-b0m0.onrender.com/
+Feel free to reach out if you have any questions or if you're interested in collaborating. I am open to new opportunities and always excited to connect with fellow developers and professionals. Thank you for visiting my portfolio!
